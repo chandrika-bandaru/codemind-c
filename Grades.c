@@ -13,20 +13,20 @@ int main()
     {
         printf("Grade B");
     }
-    else if(percentage>=70)
-    {
+   else if(percentage>=70)
+   {
         printf("Grade C");
-    }
-    else if(percentage>=60)
-    {
-        printf("Grade D");
-    }
-    else if(percentage>=40)
-    {
-        printf("Grade E");
-    }
-    else
-    {
-        printf("Grade F");
-    }
+   }
+   else if(percentage>=60)
+   {
+          printf("Grade D");
+   }
+   else if(percentage>=40)
+   {
+          printf("Grade E");
+   }
+   else
+   {
+       printf("Grade F");
+   }
 }
